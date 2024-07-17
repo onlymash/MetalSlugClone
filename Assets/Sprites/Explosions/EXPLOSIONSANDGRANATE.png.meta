@@ -1,42 +1,108 @@
 fileFormatVersion: 2
 guid: bc4c0ed69ea09e24389cbd6960bff6fc
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: throw_granate_1
-    21300002: throw_granate_2
-    21300004: throw_granate_3
-    21300006: throw_granate_4
-    21300008: throw_granate_5
-    21300010: granate_explosion_1
-    21300012: granate_explosion_2
-    21300014: granate_explosion_3
-    21300016: granate_explosion_4
-    21300018: granate_explosion_5
-    21300020: granate_explosion_6
-    21300022: granate_explosion_7
-    21300024: granate_explosion_8
-    21300026: granate_explosion_9
-    21300028: granate_explosion_10
-    21300030: granate_explosion_11
-    21300032: granate_explosion_12
-    21300034: granate_explosion_13
-    21300036: granate_explosion_14
-    21300038: granate_explosion_15
-    21300040: granate_explosion_16
-    21300042: granate_explosion_17
-    21300044: granate_explosion_18
-    21300046: granate_explosion_19
-    21300048: granate_explosion_20
-    21300050: granate_explosion_21
-    21300052: granate_flying_1
-    21300054: granate_flying_2
-    21300056: granate_flying_3
-    21300058: granate_flying_4
-    21300060: EXPLOSIONSANDGRANATE_0
-    21300062: granate_flying_5
-    21300064: granate_flying_6
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: throw_granate_1
+  - first:
+      213: 21300002
+    second: throw_granate_2
+  - first:
+      213: 21300004
+    second: throw_granate_3
+  - first:
+      213: 21300006
+    second: throw_granate_4
+  - first:
+      213: 21300008
+    second: throw_granate_5
+  - first:
+      213: 21300010
+    second: granate_explosion_1
+  - first:
+      213: 21300012
+    second: granate_explosion_2
+  - first:
+      213: 21300014
+    second: granate_explosion_3
+  - first:
+      213: 21300016
+    second: granate_explosion_4
+  - first:
+      213: 21300018
+    second: granate_explosion_5
+  - first:
+      213: 21300020
+    second: granate_explosion_6
+  - first:
+      213: 21300022
+    second: granate_explosion_7
+  - first:
+      213: 21300024
+    second: granate_explosion_8
+  - first:
+      213: 21300026
+    second: granate_explosion_9
+  - first:
+      213: 21300028
+    second: granate_explosion_10
+  - first:
+      213: 21300030
+    second: granate_explosion_11
+  - first:
+      213: 21300032
+    second: granate_explosion_12
+  - first:
+      213: 21300034
+    second: granate_explosion_13
+  - first:
+      213: 21300036
+    second: granate_explosion_14
+  - first:
+      213: 21300038
+    second: granate_explosion_15
+  - first:
+      213: 21300040
+    second: granate_explosion_16
+  - first:
+      213: 21300042
+    second: granate_explosion_17
+  - first:
+      213: 21300044
+    second: granate_explosion_18
+  - first:
+      213: 21300046
+    second: granate_explosion_19
+  - first:
+      213: 21300048
+    second: granate_explosion_20
+  - first:
+      213: 21300050
+    second: granate_explosion_21
+  - first:
+      213: 21300052
+    second: granate_flying_1
+  - first:
+      213: 21300054
+    second: granate_flying_2
+  - first:
+      213: 21300056
+    second: granate_flying_3
+  - first:
+      213: 21300058
+    second: granate_flying_4
+  - first:
+      213: 21300060
+    second: EXPLOSIONSANDGRANATE_0
+  - first:
+      213: 21300062
+    second: granate_flying_5
+  - first:
+      213: 21300064
+    second: granate_flying_6
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -53,9 +119,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -64,9 +133,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -87,11 +156,17 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -101,8 +176,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -112,8 +189,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -123,7 +202,22 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -143,6 +237,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c968e237b7e74624e9f341659f746865
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -163,6 +258,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 46cc91022dde92a4d9ac7946d7f9b342
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -183,6 +279,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 37ec33fca8eeb404cbe722b75380fe61
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -203,6 +300,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0e9d6a7e9aa6efe458fd2a2868c36d10
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -223,6 +321,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6c535ad04c4226a46b8ead1c98fbad9e
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -243,6 +342,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8e44f9a87a190b14a82e5418f001466c
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -263,6 +363,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 73cdb44fdd15cc741a165858ccc1369b
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -283,6 +384,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 725a934640b0ccc46927e18de3be194a
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -303,6 +405,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 52a06e9c63b9c0844b43c54c88c383b2
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -323,6 +426,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 60214504975e8cf4a80950b055267845
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -343,6 +447,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cbf70471cf6adf845bd03a2d0d982f15
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -363,6 +468,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4f3e46d4827b5e247b5602eb5748947f
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -383,6 +489,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 71b030652f2195148ae61a2bfab18d96
+      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -403,6 +510,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 385aadabfd52afa4e9b9d5543892d450
+      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -423,6 +531,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: be6870f8c57e7a8408aab2ee1a3a5248
+      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -443,6 +552,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c552079eb27f79245a523def1e6b391c
+      internalID: 21300030
       vertices: []
       indices: 
       edges: []
@@ -463,6 +573,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0fb96c42c2a40f2419305345bfdb886c
+      internalID: 21300032
       vertices: []
       indices: 
       edges: []
@@ -483,6 +594,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8d53cbfed758266498daf8c6b722d2cd
+      internalID: 21300034
       vertices: []
       indices: 
       edges: []
@@ -503,6 +615,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 65131f58d6736ec448b5dacde2676765
+      internalID: 21300036
       vertices: []
       indices: 
       edges: []
@@ -523,6 +636,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1ac9b127e09733042944ef270a6c61e0
+      internalID: 21300038
       vertices: []
       indices: 
       edges: []
@@ -543,6 +657,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5374d7bf0cd4cf44db5c753bf959656c
+      internalID: 21300040
       vertices: []
       indices: 
       edges: []
@@ -563,6 +678,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 28f4d7136b221af49aff9f528f26b05f
+      internalID: 21300042
       vertices: []
       indices: 
       edges: []
@@ -583,6 +699,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 088e55ae7a8380a4ab8a7a25dcef8265
+      internalID: 21300044
       vertices: []
       indices: 
       edges: []
@@ -603,6 +720,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dd5fb6f221c198949ba0576071a342f4
+      internalID: 21300046
       vertices: []
       indices: 
       edges: []
@@ -623,6 +741,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e66df082db785c044b3ffd84088f2f0f
+      internalID: 21300048
       vertices: []
       indices: 
       edges: []
@@ -643,6 +762,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f56a8eb8b0c4aea4c8ec5828e54cbdce
+      internalID: 21300050
       vertices: []
       indices: 
       edges: []
@@ -663,6 +783,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0e6a89274d67da54fa776c2fd852d87a
+      internalID: 21300052
       vertices: []
       indices: 
       edges: []
@@ -683,6 +804,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ad3134acc9aefd84d97a8e9af2b67994
+      internalID: 21300054
       vertices: []
       indices: 
       edges: []
@@ -703,6 +825,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 90f11c4e29a3f5143b38a4af6fb9671b
+      internalID: 21300056
       vertices: []
       indices: 
       edges: []
@@ -723,6 +846,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a5fdbe260ac85fc4087c0a4886e35d13
+      internalID: 21300058
       vertices: []
       indices: 
       edges: []
@@ -743,6 +867,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 69bb7d9a0d5a77f40b15d1dd73ed7f3f
+      internalID: 21300060
       vertices: []
       indices: 
       edges: []
@@ -763,6 +888,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5351dabf089373c4a86cdc296bcbcdda
+      internalID: 21300062
       vertices: []
       indices: 
       edges: []
@@ -783,6 +909,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1a1451a9f4879444a80a0c355c09cbe2
+      internalID: 21300064
       vertices: []
       indices: 
       edges: []
@@ -791,13 +918,48 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: c7cdddd5af0b9d743a5f46de057841ce
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-  spritePackingTag: 
+    secondaryTextures: []
+    nameFileIdTable:
+      EXPLOSIONSANDGRANATE_0: 21300060
+      granate_explosion_1: 21300010
+      granate_explosion_10: 21300028
+      granate_explosion_11: 21300030
+      granate_explosion_12: 21300032
+      granate_explosion_13: 21300034
+      granate_explosion_14: 21300036
+      granate_explosion_15: 21300038
+      granate_explosion_16: 21300040
+      granate_explosion_17: 21300042
+      granate_explosion_18: 21300044
+      granate_explosion_19: 21300046
+      granate_explosion_2: 21300012
+      granate_explosion_20: 21300048
+      granate_explosion_21: 21300050
+      granate_explosion_3: 21300014
+      granate_explosion_4: 21300016
+      granate_explosion_5: 21300018
+      granate_explosion_6: 21300020
+      granate_explosion_7: 21300022
+      granate_explosion_8: 21300024
+      granate_explosion_9: 21300026
+      granate_flying_1: 21300052
+      granate_flying_2: 21300054
+      granate_flying_3: 21300056
+      granate_flying_4: 21300058
+      granate_flying_5: 21300062
+      granate_flying_6: 21300064
+      throw_granate_1: 21300000
+      throw_granate_2: 21300002
+      throw_granate_3: 21300004
+      throw_granate_4: 21300006
+      throw_granate_5: 21300008
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

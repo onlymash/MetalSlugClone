@@ -25,7 +25,6 @@ public class VanController : MonoBehaviour
     public GameObject bomb;
     public Transform bombSpawner;
     private Vector3 newSpawn;
-    private Random random = new Random();
 
 
 

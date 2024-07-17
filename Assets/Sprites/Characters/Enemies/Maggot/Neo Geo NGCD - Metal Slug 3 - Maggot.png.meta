@@ -1,240 +1,702 @@
 fileFormatVersion: 2
 guid: 2dc34f2bca2673643a7fde2776801d05
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Neo Geo NGCD - Metal Slug 3 - Maggot_0
-    21300002: Neo Geo NGCD - Metal Slug 3 - Maggot_1
-    21300004: Neo Geo NGCD - Metal Slug 3 - Maggot_2
-    21300006: Neo Geo NGCD - Metal Slug 3 - Maggot_3
-    21300008: Neo Geo NGCD - Metal Slug 3 - Maggot_4
-    21300010: Neo Geo NGCD - Metal Slug 3 - Maggot_5
-    21300012: Neo Geo NGCD - Metal Slug 3 - Maggot_6
-    21300014: Neo Geo NGCD - Metal Slug 3 - Maggot_7
-    21300016: Neo Geo NGCD - Metal Slug 3 - Maggot_8
-    21300018: Neo Geo NGCD - Metal Slug 3 - Maggot_9
-    21300020: Neo Geo NGCD - Metal Slug 3 - Maggot_10
-    21300022: Neo Geo NGCD - Metal Slug 3 - Maggot_11
-    21300024: Neo Geo NGCD - Metal Slug 3 - Maggot_12
-    21300026: Neo Geo NGCD - Metal Slug 3 - Maggot_13
-    21300028: Neo Geo NGCD - Metal Slug 3 - Maggot_14
-    21300030: Neo Geo NGCD - Metal Slug 3 - Maggot_15
-    21300032: Neo Geo NGCD - Metal Slug 3 - Maggot_16
-    21300034: Neo Geo NGCD - Metal Slug 3 - Maggot_17
-    21300036: Neo Geo NGCD - Metal Slug 3 - Maggot_18
-    21300038: Neo Geo NGCD - Metal Slug 3 - Maggot_19
-    21300040: Neo Geo NGCD - Metal Slug 3 - Maggot_20
-    21300042: Neo Geo NGCD - Metal Slug 3 - Maggot_21
-    21300044: Neo Geo NGCD - Metal Slug 3 - Maggot_22
-    21300046: Neo Geo NGCD - Metal Slug 3 - Maggot_23
-    21300048: Neo Geo NGCD - Metal Slug 3 - Maggot_24
-    21300050: Neo Geo NGCD - Metal Slug 3 - Maggot_25
-    21300052: Neo Geo NGCD - Metal Slug 3 - Maggot_26
-    21300054: Neo Geo NGCD - Metal Slug 3 - Maggot_27
-    21300056: Neo Geo NGCD - Metal Slug 3 - Maggot_28
-    21300058: Neo Geo NGCD - Metal Slug 3 - Maggot_29
-    21300060: Neo Geo NGCD - Metal Slug 3 - Maggot_30
-    21300062: Neo Geo NGCD - Metal Slug 3 - Maggot_31
-    21300064: Neo Geo NGCD - Metal Slug 3 - Maggot_32
-    21300066: Neo Geo NGCD - Metal Slug 3 - Maggot_33
-    21300068: Neo Geo NGCD - Metal Slug 3 - Maggot_34
-    21300070: Neo Geo NGCD - Metal Slug 3 - Maggot_35
-    21300072: Neo Geo NGCD - Metal Slug 3 - Maggot_36
-    21300074: Neo Geo NGCD - Metal Slug 3 - Maggot_37
-    21300076: Neo Geo NGCD - Metal Slug 3 - Maggot_38
-    21300078: Neo Geo NGCD - Metal Slug 3 - Maggot_39
-    21300080: Neo Geo NGCD - Metal Slug 3 - Maggot_40
-    21300082: Neo Geo NGCD - Metal Slug 3 - Maggot_41
-    21300084: Neo Geo NGCD - Metal Slug 3 - Maggot_42
-    21300086: Neo Geo NGCD - Metal Slug 3 - Maggot_43
-    21300088: Neo Geo NGCD - Metal Slug 3 - Maggot_44
-    21300090: Neo Geo NGCD - Metal Slug 3 - Maggot_45
-    21300092: Neo Geo NGCD - Metal Slug 3 - Maggot_46
-    21300094: Neo Geo NGCD - Metal Slug 3 - Maggot_47
-    21300096: Neo Geo NGCD - Metal Slug 3 - Maggot_48
-    21300098: Neo Geo NGCD - Metal Slug 3 - Maggot_49
-    21300100: Neo Geo NGCD - Metal Slug 3 - Maggot_50
-    21300102: Neo Geo NGCD - Metal Slug 3 - Maggot_51
-    21300104: Neo Geo NGCD - Metal Slug 3 - Maggot_52
-    21300106: Neo Geo NGCD - Metal Slug 3 - Maggot_53
-    21300108: Neo Geo NGCD - Metal Slug 3 - Maggot_54
-    21300110: Neo Geo NGCD - Metal Slug 3 - Maggot_55
-    21300112: Neo Geo NGCD - Metal Slug 3 - Maggot_56
-    21300114: Neo Geo NGCD - Metal Slug 3 - Maggot_57
-    21300116: Neo Geo NGCD - Metal Slug 3 - Maggot_58
-    21300118: Neo Geo NGCD - Metal Slug 3 - Maggot_59
-    21300120: Neo Geo NGCD - Metal Slug 3 - Maggot_60
-    21300122: Neo Geo NGCD - Metal Slug 3 - Maggot_61
-    21300124: Neo Geo NGCD - Metal Slug 3 - Maggot_62
-    21300126: Neo Geo NGCD - Metal Slug 3 - Maggot_63
-    21300128: Neo Geo NGCD - Metal Slug 3 - Maggot_64
-    21300130: Neo Geo NGCD - Metal Slug 3 - Maggot_65
-    21300132: Neo Geo NGCD - Metal Slug 3 - Maggot_66
-    21300134: Neo Geo NGCD - Metal Slug 3 - Maggot_67
-    21300136: Neo Geo NGCD - Metal Slug 3 - Maggot_68
-    21300138: Neo Geo NGCD - Metal Slug 3 - Maggot_69
-    21300140: Neo Geo NGCD - Metal Slug 3 - Maggot_70
-    21300142: Neo Geo NGCD - Metal Slug 3 - Maggot_71
-    21300144: Neo Geo NGCD - Metal Slug 3 - Maggot_72
-    21300146: Neo Geo NGCD - Metal Slug 3 - Maggot_73
-    21300148: Neo Geo NGCD - Metal Slug 3 - Maggot_74
-    21300150: Neo Geo NGCD - Metal Slug 3 - Maggot_75
-    21300152: Neo Geo NGCD - Metal Slug 3 - Maggot_76
-    21300154: Neo Geo NGCD - Metal Slug 3 - Maggot_77
-    21300156: Neo Geo NGCD - Metal Slug 3 - Maggot_78
-    21300158: Neo Geo NGCD - Metal Slug 3 - Maggot_79
-    21300160: Neo Geo NGCD - Metal Slug 3 - Maggot_80
-    21300162: Neo Geo NGCD - Metal Slug 3 - Maggot_81
-    21300164: Neo Geo NGCD - Metal Slug 3 - Maggot_82
-    21300166: Neo Geo NGCD - Metal Slug 3 - Maggot_83
-    21300168: Neo Geo NGCD - Metal Slug 3 - Maggot_84
-    21300170: Neo Geo NGCD - Metal Slug 3 - Maggot_85
-    21300172: Neo Geo NGCD - Metal Slug 3 - Maggot_86
-    21300174: Neo Geo NGCD - Metal Slug 3 - Maggot_87
-    21300176: Neo Geo NGCD - Metal Slug 3 - Maggot_88
-    21300178: Neo Geo NGCD - Metal Slug 3 - Maggot_89
-    21300180: Neo Geo NGCD - Metal Slug 3 - Maggot_90
-    21300182: Neo Geo NGCD - Metal Slug 3 - Maggot_91
-    21300184: Neo Geo NGCD - Metal Slug 3 - Maggot_92
-    21300186: Neo Geo NGCD - Metal Slug 3 - Maggot_93
-    21300188: Neo Geo NGCD - Metal Slug 3 - Maggot_94
-    21300190: Neo Geo NGCD - Metal Slug 3 - Maggot_95
-    21300192: Neo Geo NGCD - Metal Slug 3 - Maggot_96
-    21300194: Neo Geo NGCD - Metal Slug 3 - Maggot_97
-    21300196: Neo Geo NGCD - Metal Slug 3 - Maggot_98
-    21300198: Neo Geo NGCD - Metal Slug 3 - Maggot_99
-    21300200: Neo Geo NGCD - Metal Slug 3 - Maggot_100
-    21300202: Neo Geo NGCD - Metal Slug 3 - Maggot_101
-    21300204: Neo Geo NGCD - Metal Slug 3 - Maggot_102
-    21300206: Neo Geo NGCD - Metal Slug 3 - Maggot_103
-    21300208: Neo Geo NGCD - Metal Slug 3 - Maggot_104
-    21300210: Neo Geo NGCD - Metal Slug 3 - Maggot_105
-    21300212: Neo Geo NGCD - Metal Slug 3 - Maggot_106
-    21300214: Neo Geo NGCD - Metal Slug 3 - Maggot_107
-    21300216: Neo Geo NGCD - Metal Slug 3 - Maggot_108
-    21300218: Neo Geo NGCD - Metal Slug 3 - Maggot_109
-    21300220: Neo Geo NGCD - Metal Slug 3 - Maggot_110
-    21300222: Neo Geo NGCD - Metal Slug 3 - Maggot_111
-    21300224: Neo Geo NGCD - Metal Slug 3 - Maggot_112
-    21300226: Neo Geo NGCD - Metal Slug 3 - Maggot_113
-    21300228: Neo Geo NGCD - Metal Slug 3 - Maggot_114
-    21300230: Neo Geo NGCD - Metal Slug 3 - Maggot_115
-    21300232: Neo Geo NGCD - Metal Slug 3 - Maggot_116
-    21300234: Neo Geo NGCD - Metal Slug 3 - Maggot_117
-    21300236: Neo Geo NGCD - Metal Slug 3 - Maggot_118
-    21300238: Neo Geo NGCD - Metal Slug 3 - Maggot_119
-    21300240: Neo Geo NGCD - Metal Slug 3 - Maggot_120
-    21300242: Neo Geo NGCD - Metal Slug 3 - Maggot_121
-    21300244: Neo Geo NGCD - Metal Slug 3 - Maggot_122
-    21300246: Neo Geo NGCD - Metal Slug 3 - Maggot_123
-    21300248: Neo Geo NGCD - Metal Slug 3 - Maggot_124
-    21300250: Neo Geo NGCD - Metal Slug 3 - Maggot_125
-    21300252: Neo Geo NGCD - Metal Slug 3 - Maggot_126
-    21300254: Neo Geo NGCD - Metal Slug 3 - Maggot_127
-    21300256: Neo Geo NGCD - Metal Slug 3 - Maggot_128
-    21300258: Neo Geo NGCD - Metal Slug 3 - Maggot_129
-    21300260: Neo Geo NGCD - Metal Slug 3 - Maggot_130
-    21300262: Neo Geo NGCD - Metal Slug 3 - Maggot_131
-    21300264: Neo Geo NGCD - Metal Slug 3 - Maggot_132
-    21300266: Neo Geo NGCD - Metal Slug 3 - Maggot_133
-    21300268: Neo Geo NGCD - Metal Slug 3 - Maggot_134
-    21300270: Neo Geo NGCD - Metal Slug 3 - Maggot_135
-    21300272: Neo Geo NGCD - Metal Slug 3 - Maggot_136
-    21300274: Neo Geo NGCD - Metal Slug 3 - Maggot_137
-    21300276: Neo Geo NGCD - Metal Slug 3 - Maggot_138
-    21300278: Neo Geo NGCD - Metal Slug 3 - Maggot_139
-    21300280: Neo Geo NGCD - Metal Slug 3 - Maggot_140
-    21300282: Neo Geo NGCD - Metal Slug 3 - Maggot_141
-    21300284: Neo Geo NGCD - Metal Slug 3 - Maggot_142
-    21300286: Neo Geo NGCD - Metal Slug 3 - Maggot_143
-    21300288: Neo Geo NGCD - Metal Slug 3 - Maggot_144
-    21300290: Neo Geo NGCD - Metal Slug 3 - Maggot_145
-    21300292: Neo Geo NGCD - Metal Slug 3 - Maggot_146
-    21300294: Neo Geo NGCD - Metal Slug 3 - Maggot_147
-    21300296: Neo Geo NGCD - Metal Slug 3 - Maggot_148
-    21300298: Neo Geo NGCD - Metal Slug 3 - Maggot_149
-    21300300: Neo Geo NGCD - Metal Slug 3 - Maggot_150
-    21300302: Neo Geo NGCD - Metal Slug 3 - Maggot_151
-    21300304: Neo Geo NGCD - Metal Slug 3 - Maggot_152
-    21300306: Neo Geo NGCD - Metal Slug 3 - Maggot_153
-    21300308: Neo Geo NGCD - Metal Slug 3 - Maggot_154
-    21300310: Neo Geo NGCD - Metal Slug 3 - Maggot_155
-    21300312: Neo Geo NGCD - Metal Slug 3 - Maggot_156
-    21300314: Neo Geo NGCD - Metal Slug 3 - Maggot_157
-    21300316: Neo Geo NGCD - Metal Slug 3 - Maggot_158
-    21300318: Neo Geo NGCD - Metal Slug 3 - Maggot_159
-    21300320: Neo Geo NGCD - Metal Slug 3 - Maggot_160
-    21300322: Neo Geo NGCD - Metal Slug 3 - Maggot_161
-    21300324: Neo Geo NGCD - Metal Slug 3 - Maggot_162
-    21300326: Neo Geo NGCD - Metal Slug 3 - Maggot_163
-    21300328: Neo Geo NGCD - Metal Slug 3 - Maggot_164
-    21300330: Neo Geo NGCD - Metal Slug 3 - Maggot_165
-    21300332: Neo Geo NGCD - Metal Slug 3 - Maggot_166
-    21300334: Neo Geo NGCD - Metal Slug 3 - Maggot_167
-    21300336: Neo Geo NGCD - Metal Slug 3 - Maggot_168
-    21300338: Neo Geo NGCD - Metal Slug 3 - Maggot_169
-    21300340: Neo Geo NGCD - Metal Slug 3 - Maggot_170
-    21300342: Neo Geo NGCD - Metal Slug 3 - Maggot_171
-    21300344: Neo Geo NGCD - Metal Slug 3 - Maggot_172
-    21300346: Neo Geo NGCD - Metal Slug 3 - Maggot_173
-    21300348: Neo Geo NGCD - Metal Slug 3 - Maggot_174
-    21300350: Neo Geo NGCD - Metal Slug 3 - Maggot_175
-    21300352: Neo Geo NGCD - Metal Slug 3 - Maggot_176
-    21300354: Neo Geo NGCD - Metal Slug 3 - Maggot_177
-    21300356: Neo Geo NGCD - Metal Slug 3 - Maggot_178
-    21300358: Neo Geo NGCD - Metal Slug 3 - Maggot_179
-    21300360: Neo Geo NGCD - Metal Slug 3 - Maggot_180
-    21300362: Neo Geo NGCD - Metal Slug 3 - Maggot_181
-    21300364: Neo Geo NGCD - Metal Slug 3 - Maggot_182
-    21300366: Neo Geo NGCD - Metal Slug 3 - Maggot_183
-    21300368: Neo Geo NGCD - Metal Slug 3 - Maggot_184
-    21300370: Neo Geo NGCD - Metal Slug 3 - Maggot_185
-    21300372: Neo Geo NGCD - Metal Slug 3 - Maggot_186
-    21300374: Neo Geo NGCD - Metal Slug 3 - Maggot_187
-    21300376: Neo Geo NGCD - Metal Slug 3 - Maggot_188
-    21300378: Neo Geo NGCD - Metal Slug 3 - Maggot_189
-    21300380: Neo Geo NGCD - Metal Slug 3 - Maggot_190
-    21300382: Neo Geo NGCD - Metal Slug 3 - Maggot_191
-    21300384: Neo Geo NGCD - Metal Slug 3 - Maggot_192
-    21300386: Neo Geo NGCD - Metal Slug 3 - Maggot_193
-    21300388: Neo Geo NGCD - Metal Slug 3 - Maggot_194
-    21300390: Neo Geo NGCD - Metal Slug 3 - Maggot_195
-    21300392: Neo Geo NGCD - Metal Slug 3 - Maggot_196
-    21300394: Neo Geo NGCD - Metal Slug 3 - Maggot_197
-    21300396: Neo Geo NGCD - Metal Slug 3 - Maggot_198
-    21300398: Neo Geo NGCD - Metal Slug 3 - Maggot_199
-    21300400: Neo Geo NGCD - Metal Slug 3 - Maggot_200
-    21300402: Neo Geo NGCD - Metal Slug 3 - Maggot_201
-    21300404: Neo Geo NGCD - Metal Slug 3 - Maggot_202
-    21300406: Neo Geo NGCD - Metal Slug 3 - Maggot_203
-    21300408: Neo Geo NGCD - Metal Slug 3 - Maggot_204
-    21300410: Neo Geo NGCD - Metal Slug 3 - Maggot_205
-    21300412: Neo Geo NGCD - Metal Slug 3 - Maggot_206
-    21300414: Neo Geo NGCD - Metal Slug 3 - Maggot_207
-    21300416: Neo Geo NGCD - Metal Slug 3 - Maggot_208
-    21300418: Neo Geo NGCD - Metal Slug 3 - Maggot_209
-    21300420: Neo Geo NGCD - Metal Slug 3 - Maggot_210
-    21300422: Neo Geo NGCD - Metal Slug 3 - Maggot_211
-    21300424: Neo Geo NGCD - Metal Slug 3 - Maggot_212
-    21300426: Neo Geo NGCD - Metal Slug 3 - Maggot_213
-    21300428: Neo Geo NGCD - Metal Slug 3 - Maggot_214
-    21300430: Neo Geo NGCD - Metal Slug 3 - Maggot_215
-    21300432: Neo Geo NGCD - Metal Slug 3 - Maggot_216
-    21300434: Neo Geo NGCD - Metal Slug 3 - Maggot_217
-    21300436: Neo Geo NGCD - Metal Slug 3 - Maggot_218
-    21300438: Neo Geo NGCD - Metal Slug 3 - Maggot_219
-    21300440: Neo Geo NGCD - Metal Slug 3 - Maggot_220
-    21300442: Neo Geo NGCD - Metal Slug 3 - Maggot_221
-    21300444: Neo Geo NGCD - Metal Slug 3 - Maggot_222
-    21300446: Neo Geo NGCD - Metal Slug 3 - Maggot_223
-    21300448: Neo Geo NGCD - Metal Slug 3 - Maggot_224
-    21300450: Neo Geo NGCD - Metal Slug 3 - Maggot_225
-    21300452: Neo Geo NGCD - Metal Slug 3 - Maggot_226
-    21300454: Neo Geo NGCD - Metal Slug 3 - Maggot_227
-    21300456: Neo Geo NGCD - Metal Slug 3 - Maggot_228
-    21300458: Neo Geo NGCD - Metal Slug 3 - Maggot_229
-    21300460: Neo Geo NGCD - Metal Slug 3 - Maggot_230
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_0
+  - first:
+      213: 21300002
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_1
+  - first:
+      213: 21300004
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_2
+  - first:
+      213: 21300006
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_3
+  - first:
+      213: 21300008
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_4
+  - first:
+      213: 21300010
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_5
+  - first:
+      213: 21300012
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_6
+  - first:
+      213: 21300014
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_7
+  - first:
+      213: 21300016
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_8
+  - first:
+      213: 21300018
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_9
+  - first:
+      213: 21300020
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_10
+  - first:
+      213: 21300022
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_11
+  - first:
+      213: 21300024
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_12
+  - first:
+      213: 21300026
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_13
+  - first:
+      213: 21300028
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_14
+  - first:
+      213: 21300030
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_15
+  - first:
+      213: 21300032
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_16
+  - first:
+      213: 21300034
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_17
+  - first:
+      213: 21300036
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_18
+  - first:
+      213: 21300038
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_19
+  - first:
+      213: 21300040
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_20
+  - first:
+      213: 21300042
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_21
+  - first:
+      213: 21300044
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_22
+  - first:
+      213: 21300046
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_23
+  - first:
+      213: 21300048
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_24
+  - first:
+      213: 21300050
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_25
+  - first:
+      213: 21300052
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_26
+  - first:
+      213: 21300054
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_27
+  - first:
+      213: 21300056
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_28
+  - first:
+      213: 21300058
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_29
+  - first:
+      213: 21300060
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_30
+  - first:
+      213: 21300062
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_31
+  - first:
+      213: 21300064
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_32
+  - first:
+      213: 21300066
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_33
+  - first:
+      213: 21300068
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_34
+  - first:
+      213: 21300070
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_35
+  - first:
+      213: 21300072
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_36
+  - first:
+      213: 21300074
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_37
+  - first:
+      213: 21300076
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_38
+  - first:
+      213: 21300078
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_39
+  - first:
+      213: 21300080
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_40
+  - first:
+      213: 21300082
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_41
+  - first:
+      213: 21300084
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_42
+  - first:
+      213: 21300086
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_43
+  - first:
+      213: 21300088
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_44
+  - first:
+      213: 21300090
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_45
+  - first:
+      213: 21300092
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_46
+  - first:
+      213: 21300094
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_47
+  - first:
+      213: 21300096
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_48
+  - first:
+      213: 21300098
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_49
+  - first:
+      213: 21300100
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_50
+  - first:
+      213: 21300102
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_51
+  - first:
+      213: 21300104
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_52
+  - first:
+      213: 21300106
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_53
+  - first:
+      213: 21300108
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_54
+  - first:
+      213: 21300110
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_55
+  - first:
+      213: 21300112
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_56
+  - first:
+      213: 21300114
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_57
+  - first:
+      213: 21300116
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_58
+  - first:
+      213: 21300118
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_59
+  - first:
+      213: 21300120
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_60
+  - first:
+      213: 21300122
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_61
+  - first:
+      213: 21300124
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_62
+  - first:
+      213: 21300126
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_63
+  - first:
+      213: 21300128
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_64
+  - first:
+      213: 21300130
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_65
+  - first:
+      213: 21300132
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_66
+  - first:
+      213: 21300134
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_67
+  - first:
+      213: 21300136
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_68
+  - first:
+      213: 21300138
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_69
+  - first:
+      213: 21300140
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_70
+  - first:
+      213: 21300142
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_71
+  - first:
+      213: 21300144
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_72
+  - first:
+      213: 21300146
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_73
+  - first:
+      213: 21300148
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_74
+  - first:
+      213: 21300150
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_75
+  - first:
+      213: 21300152
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_76
+  - first:
+      213: 21300154
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_77
+  - first:
+      213: 21300156
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_78
+  - first:
+      213: 21300158
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_79
+  - first:
+      213: 21300160
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_80
+  - first:
+      213: 21300162
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_81
+  - first:
+      213: 21300164
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_82
+  - first:
+      213: 21300166
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_83
+  - first:
+      213: 21300168
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_84
+  - first:
+      213: 21300170
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_85
+  - first:
+      213: 21300172
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_86
+  - first:
+      213: 21300174
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_87
+  - first:
+      213: 21300176
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_88
+  - first:
+      213: 21300178
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_89
+  - first:
+      213: 21300180
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_90
+  - first:
+      213: 21300182
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_91
+  - first:
+      213: 21300184
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_92
+  - first:
+      213: 21300186
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_93
+  - first:
+      213: 21300188
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_94
+  - first:
+      213: 21300190
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_95
+  - first:
+      213: 21300192
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_96
+  - first:
+      213: 21300194
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_97
+  - first:
+      213: 21300196
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_98
+  - first:
+      213: 21300198
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_99
+  - first:
+      213: 21300200
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_100
+  - first:
+      213: 21300202
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_101
+  - first:
+      213: 21300204
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_102
+  - first:
+      213: 21300206
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_103
+  - first:
+      213: 21300208
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_104
+  - first:
+      213: 21300210
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_105
+  - first:
+      213: 21300212
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_106
+  - first:
+      213: 21300214
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_107
+  - first:
+      213: 21300216
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_108
+  - first:
+      213: 21300218
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_109
+  - first:
+      213: 21300220
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_110
+  - first:
+      213: 21300222
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_111
+  - first:
+      213: 21300224
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_112
+  - first:
+      213: 21300226
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_113
+  - first:
+      213: 21300228
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_114
+  - first:
+      213: 21300230
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_115
+  - first:
+      213: 21300232
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_116
+  - first:
+      213: 21300234
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_117
+  - first:
+      213: 21300236
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_118
+  - first:
+      213: 21300238
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_119
+  - first:
+      213: 21300240
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_120
+  - first:
+      213: 21300242
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_121
+  - first:
+      213: 21300244
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_122
+  - first:
+      213: 21300246
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_123
+  - first:
+      213: 21300248
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_124
+  - first:
+      213: 21300250
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_125
+  - first:
+      213: 21300252
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_126
+  - first:
+      213: 21300254
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_127
+  - first:
+      213: 21300256
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_128
+  - first:
+      213: 21300258
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_129
+  - first:
+      213: 21300260
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_130
+  - first:
+      213: 21300262
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_131
+  - first:
+      213: 21300264
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_132
+  - first:
+      213: 21300266
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_133
+  - first:
+      213: 21300268
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_134
+  - first:
+      213: 21300270
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_135
+  - first:
+      213: 21300272
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_136
+  - first:
+      213: 21300274
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_137
+  - first:
+      213: 21300276
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_138
+  - first:
+      213: 21300278
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_139
+  - first:
+      213: 21300280
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_140
+  - first:
+      213: 21300282
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_141
+  - first:
+      213: 21300284
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_142
+  - first:
+      213: 21300286
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_143
+  - first:
+      213: 21300288
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_144
+  - first:
+      213: 21300290
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_145
+  - first:
+      213: 21300292
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_146
+  - first:
+      213: 21300294
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_147
+  - first:
+      213: 21300296
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_148
+  - first:
+      213: 21300298
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_149
+  - first:
+      213: 21300300
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_150
+  - first:
+      213: 21300302
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_151
+  - first:
+      213: 21300304
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_152
+  - first:
+      213: 21300306
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_153
+  - first:
+      213: 21300308
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_154
+  - first:
+      213: 21300310
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_155
+  - first:
+      213: 21300312
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_156
+  - first:
+      213: 21300314
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_157
+  - first:
+      213: 21300316
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_158
+  - first:
+      213: 21300318
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_159
+  - first:
+      213: 21300320
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_160
+  - first:
+      213: 21300322
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_161
+  - first:
+      213: 21300324
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_162
+  - first:
+      213: 21300326
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_163
+  - first:
+      213: 21300328
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_164
+  - first:
+      213: 21300330
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_165
+  - first:
+      213: 21300332
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_166
+  - first:
+      213: 21300334
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_167
+  - first:
+      213: 21300336
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_168
+  - first:
+      213: 21300338
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_169
+  - first:
+      213: 21300340
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_170
+  - first:
+      213: 21300342
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_171
+  - first:
+      213: 21300344
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_172
+  - first:
+      213: 21300346
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_173
+  - first:
+      213: 21300348
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_174
+  - first:
+      213: 21300350
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_175
+  - first:
+      213: 21300352
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_176
+  - first:
+      213: 21300354
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_177
+  - first:
+      213: 21300356
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_178
+  - first:
+      213: 21300358
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_179
+  - first:
+      213: 21300360
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_180
+  - first:
+      213: 21300362
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_181
+  - first:
+      213: 21300364
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_182
+  - first:
+      213: 21300366
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_183
+  - first:
+      213: 21300368
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_184
+  - first:
+      213: 21300370
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_185
+  - first:
+      213: 21300372
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_186
+  - first:
+      213: 21300374
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_187
+  - first:
+      213: 21300376
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_188
+  - first:
+      213: 21300378
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_189
+  - first:
+      213: 21300380
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_190
+  - first:
+      213: 21300382
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_191
+  - first:
+      213: 21300384
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_192
+  - first:
+      213: 21300386
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_193
+  - first:
+      213: 21300388
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_194
+  - first:
+      213: 21300390
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_195
+  - first:
+      213: 21300392
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_196
+  - first:
+      213: 21300394
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_197
+  - first:
+      213: 21300396
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_198
+  - first:
+      213: 21300398
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_199
+  - first:
+      213: 21300400
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_200
+  - first:
+      213: 21300402
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_201
+  - first:
+      213: 21300404
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_202
+  - first:
+      213: 21300406
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_203
+  - first:
+      213: 21300408
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_204
+  - first:
+      213: 21300410
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_205
+  - first:
+      213: 21300412
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_206
+  - first:
+      213: 21300414
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_207
+  - first:
+      213: 21300416
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_208
+  - first:
+      213: 21300418
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_209
+  - first:
+      213: 21300420
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_210
+  - first:
+      213: 21300422
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_211
+  - first:
+      213: 21300424
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_212
+  - first:
+      213: 21300426
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_213
+  - first:
+      213: 21300428
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_214
+  - first:
+      213: 21300430
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_215
+  - first:
+      213: 21300432
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_216
+  - first:
+      213: 21300434
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_217
+  - first:
+      213: 21300436
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_218
+  - first:
+      213: 21300438
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_219
+  - first:
+      213: 21300440
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_220
+  - first:
+      213: 21300442
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_221
+  - first:
+      213: 21300444
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_222
+  - first:
+      213: 21300446
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_223
+  - first:
+      213: 21300448
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_224
+  - first:
+      213: 21300450
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_225
+  - first:
+      213: 21300452
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_226
+  - first:
+      213: 21300454
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_227
+  - first:
+      213: 21300456
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_228
+  - first:
+      213: 21300458
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_229
+  - first:
+      213: 21300460
+    second: Neo Geo NGCD - Metal Slug 3 - Maggot_230
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -251,9 +713,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -263,8 +728,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -285,11 +750,17 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 4096
     resizeAlgorithm: 0
@@ -299,8 +770,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 4096
     resizeAlgorithm: 0
@@ -310,8 +783,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 4096
     resizeAlgorithm: 0
@@ -321,7 +796,22 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -341,6 +831,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bb42cf2743d402246b97397fa46e0e89
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -361,6 +852,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 23d8a5d8e6a83b74c9251979f88afdfd
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -381,6 +873,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: eff1a086f37bf654f935a48cb99d229a
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -401,6 +894,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 387822be31d9d3c45895e3b2b12e1844
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -421,6 +915,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 965d4cbc0312e244b8bd9a171d7bf948
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -441,6 +936,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 254ac2488e301fc46b1715244971081a
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -461,6 +957,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 97ba1f752095bb24693887c6896dec87
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -481,6 +978,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f84fe127307bf504fa9b39505947998b
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -501,6 +999,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 988fd9f6a461aae42ba34ebbfd92ee44
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -521,6 +1020,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 629c831e6f405b04ab88ca9fbb08c608
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -541,6 +1041,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bfe35591f0ed5d14b881b42ba27394a9
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -561,6 +1062,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 818274d396a41df47a93d97a987caea3
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -581,6 +1083,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7c8fa6ece2d91334bacb10db4617da0d
+      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -601,6 +1104,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: efcc98cd8cd3b714fbd14f64340237d5
+      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -621,6 +1125,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 795a2e092dc1d654080b2b78bd593537
+      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -641,6 +1146,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 80036f29c08cb15469dc0661b7146b6d
+      internalID: 21300030
       vertices: []
       indices: 
       edges: []
@@ -661,6 +1167,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 088b1aa01fe8f3c41b65555fa2647248
+      internalID: 21300032
       vertices: []
       indices: 
       edges: []
@@ -681,6 +1188,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 872b4f9c9644bd746a157d5a6e1e0f07
+      internalID: 21300034
       vertices: []
       indices: 
       edges: []
@@ -701,6 +1209,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e158f8db6c92d4e4cb0c9d0de0be062d
+      internalID: 21300036
       vertices: []
       indices: 
       edges: []
@@ -721,6 +1230,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f74a6f8eca90caa46bf438daa9c0f546
+      internalID: 21300038
       vertices: []
       indices: 
       edges: []
@@ -741,6 +1251,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a322cbe18a8cdf44793a9d3b64bbd9f9
+      internalID: 21300040
       vertices: []
       indices: 
       edges: []
@@ -761,6 +1272,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: beb81e6042c59b44e92f6f48c4d0704d
+      internalID: 21300042
       vertices: []
       indices: 
       edges: []
@@ -781,6 +1293,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c315cd0f07742eb4db50ef205ad34ffb
+      internalID: 21300044
       vertices: []
       indices: 
       edges: []
@@ -801,6 +1314,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 75af4631e9bf4cc409b05360cefc11f7
+      internalID: 21300046
       vertices: []
       indices: 
       edges: []
@@ -821,6 +1335,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cebe695094dadcb4680c9f745c740555
+      internalID: 21300048
       vertices: []
       indices: 
       edges: []
@@ -841,6 +1356,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 91445c98fb58225498487e2c800832a8
+      internalID: 21300050
       vertices: []
       indices: 
       edges: []
@@ -861,6 +1377,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 445e62750c1e4604ba4cb08b3246b781
+      internalID: 21300052
       vertices: []
       indices: 
       edges: []
@@ -881,6 +1398,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c9831411d1b15d947867289ca937a7d9
+      internalID: 21300054
       vertices: []
       indices: 
       edges: []
@@ -901,6 +1419,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fbd2c7ae906da814987f1e393eac9509
+      internalID: 21300056
       vertices: []
       indices: 
       edges: []
@@ -921,6 +1440,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d201c33e2811ce44183768900ce11cce
+      internalID: 21300058
       vertices: []
       indices: 
       edges: []
@@ -941,6 +1461,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 98b12e77aafa84c4ca1a3a66af7af9c3
+      internalID: 21300060
       vertices: []
       indices: 
       edges: []
@@ -961,6 +1482,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7414e97bf5c210f408b7b19d148e7063
+      internalID: 21300062
       vertices: []
       indices: 
       edges: []
@@ -981,6 +1503,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9fcbaaaf04639bf4bb5cc095df283a77
+      internalID: 21300064
       vertices: []
       indices: 
       edges: []
@@ -1001,6 +1524,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9a9467cc00735e3429636af25940a2b1
+      internalID: 21300066
       vertices: []
       indices: 
       edges: []
@@ -1021,6 +1545,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fe4f905b04d7bd44e8252f1e6f2e03b7
+      internalID: 21300068
       vertices: []
       indices: 
       edges: []
@@ -1041,6 +1566,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6576e7db8035f334d889fdd74b216952
+      internalID: 21300070
       vertices: []
       indices: 
       edges: []
@@ -1061,6 +1587,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 40ab84e058c04ff4a8a7221cedc669a9
+      internalID: 21300072
       vertices: []
       indices: 
       edges: []
@@ -1081,6 +1608,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cb533b56d5df0eb468270f3afc3cee86
+      internalID: 21300074
       vertices: []
       indices: 
       edges: []
@@ -1101,6 +1629,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 07e19d95da1c2b74f8421ad7d9d7c149
+      internalID: 21300076
       vertices: []
       indices: 
       edges: []
@@ -1121,6 +1650,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: da5b6edef7999234f9d408d7919a01a8
+      internalID: 21300078
       vertices: []
       indices: 
       edges: []
@@ -1141,6 +1671,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3d318793d0fb4274ba3a6000102e0746
+      internalID: 21300080
       vertices: []
       indices: 
       edges: []
@@ -1161,6 +1692,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b71456e5d02023e43a292e7f83310826
+      internalID: 21300082
       vertices: []
       indices: 
       edges: []
@@ -1181,6 +1713,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 28dc74e0c40f67b44b0f1d93be1d4da6
+      internalID: 21300084
       vertices: []
       indices: 
       edges: []
@@ -1201,6 +1734,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c81a9f4ada660e54da0737bb4578e12a
+      internalID: 21300086
       vertices: []
       indices: 
       edges: []
@@ -1221,6 +1755,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bf249936b5578b74a95ecad4661fcc81
+      internalID: 21300088
       vertices: []
       indices: 
       edges: []
@@ -1241,6 +1776,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 00cff9217b0e8b24c9a226acc3806116
+      internalID: 21300090
       vertices: []
       indices: 
       edges: []
@@ -1261,6 +1797,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b1ddc2f01fd9526449524f2931be5665
+      internalID: 21300092
       vertices: []
       indices: 
       edges: []
@@ -1281,6 +1818,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 17e2c2a8feff1ed42a3bc51da57ee877
+      internalID: 21300094
       vertices: []
       indices: 
       edges: []
@@ -1301,6 +1839,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0bee212d2ab0d73438b3919384e151b8
+      internalID: 21300096
       vertices: []
       indices: 
       edges: []
@@ -1321,6 +1860,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4a17c7ab56aa9de469918291308bdb69
+      internalID: 21300098
       vertices: []
       indices: 
       edges: []
@@ -1341,6 +1881,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 42d1c988873d49e4f9e1b3bf867f1dd9
+      internalID: 21300100
       vertices: []
       indices: 
       edges: []
@@ -1361,6 +1902,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9e7c9148e35349f408b88e5397213786
+      internalID: 21300102
       vertices: []
       indices: 
       edges: []
@@ -1381,6 +1923,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e73bbd35fcf2efc4386c13f975941815
+      internalID: 21300104
       vertices: []
       indices: 
       edges: []
@@ -1401,6 +1944,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a368be0576fe6894d8590cbeb64f840a
+      internalID: 21300106
       vertices: []
       indices: 
       edges: []
@@ -1421,6 +1965,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f6473fcb723e3254598e4b66499afa33
+      internalID: 21300108
       vertices: []
       indices: 
       edges: []
@@ -1441,6 +1986,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ecd6430f61e57a344977eceb5246d112
+      internalID: 21300110
       vertices: []
       indices: 
       edges: []
@@ -1461,6 +2007,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ac333e67089da3f40a7cf56dcb6d14f0
+      internalID: 21300112
       vertices: []
       indices: 
       edges: []
@@ -1481,6 +2028,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0fa8204713c65a74caf7256b1ba69607
+      internalID: 21300114
       vertices: []
       indices: 
       edges: []
@@ -1501,6 +2049,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a3327ebb903232c40bf1f31d94a48bc9
+      internalID: 21300116
       vertices: []
       indices: 
       edges: []
@@ -1521,6 +2070,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 49fa7a851358eef40b97adf092ca4cd7
+      internalID: 21300118
       vertices: []
       indices: 
       edges: []
@@ -1541,6 +2091,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d27eed9552c04994f887daf1581160ad
+      internalID: 21300120
       vertices: []
       indices: 
       edges: []
@@ -1561,6 +2112,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7bc69cc3009e2e24ebb46256acba3f30
+      internalID: 21300122
       vertices: []
       indices: 
       edges: []
@@ -1581,6 +2133,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c80918f079b63c74e84ca4a163060eb9
+      internalID: 21300124
       vertices: []
       indices: 
       edges: []
@@ -1601,6 +2154,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 31ef978fee88bbf469299a17d8b803c1
+      internalID: 21300126
       vertices: []
       indices: 
       edges: []
@@ -1621,6 +2175,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f0509987355e3214a8ff860c7a1afa1b
+      internalID: 21300128
       vertices: []
       indices: 
       edges: []
@@ -1641,6 +2196,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f1ee3861ce699aa4e95b05e93ceff933
+      internalID: 21300130
       vertices: []
       indices: 
       edges: []
@@ -1661,6 +2217,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8387a5f5da77c714e96f6d291f33a4b0
+      internalID: 21300132
       vertices: []
       indices: 
       edges: []
@@ -1681,6 +2238,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 05606715974976947b96d7c894848f65
+      internalID: 21300134
       vertices: []
       indices: 
       edges: []
@@ -1701,6 +2259,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7e4ea1f1c58c9da42b1da9aff8bcaccd
+      internalID: 21300136
       vertices: []
       indices: 
       edges: []
@@ -1721,6 +2280,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8c2594e0eada04d4f9666bbe7682f538
+      internalID: 21300138
       vertices: []
       indices: 
       edges: []
@@ -1741,6 +2301,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 749c150f44664ba418ccb8ddd66c2762
+      internalID: 21300140
       vertices: []
       indices: 
       edges: []
@@ -1761,6 +2322,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8c781c53257169e4d8b9eb99e1613ac0
+      internalID: 21300142
       vertices: []
       indices: 
       edges: []
@@ -1781,6 +2343,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d5dd9601469078e49bbeedd44073a1ba
+      internalID: 21300144
       vertices: []
       indices: 
       edges: []
@@ -1801,6 +2364,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c489e49937ef5154489931883555b63a
+      internalID: 21300146
       vertices: []
       indices: 
       edges: []
@@ -1821,6 +2385,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2c753f9b921d2dd47a545406cd5cfc2b
+      internalID: 21300148
       vertices: []
       indices: 
       edges: []
@@ -1841,6 +2406,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 66586d4a39d11a54fb710dbdd1bf088b
+      internalID: 21300150
       vertices: []
       indices: 
       edges: []
@@ -1861,6 +2427,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9a14188b04eff5a4d88d6285ea0d0137
+      internalID: 21300152
       vertices: []
       indices: 
       edges: []
@@ -1881,6 +2448,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 59e3ce6802b07904c844cf7ba4562342
+      internalID: 21300154
       vertices: []
       indices: 
       edges: []
@@ -1901,6 +2469,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d123b5a2d23ea8d48913049be9760878
+      internalID: 21300156
       vertices: []
       indices: 
       edges: []
@@ -1921,6 +2490,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a5014417bba3125468db3127da2effcd
+      internalID: 21300158
       vertices: []
       indices: 
       edges: []
@@ -1941,6 +2511,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 140be54a8eeea8a4a8bfdb3989ac59fb
+      internalID: 21300160
       vertices: []
       indices: 
       edges: []
@@ -1961,6 +2532,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3651d402bba957147b127b05e29dad91
+      internalID: 21300162
       vertices: []
       indices: 
       edges: []
@@ -1981,6 +2553,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e61c839ae04b0c14c88fc26c9373c2dc
+      internalID: 21300164
       vertices: []
       indices: 
       edges: []
@@ -2001,6 +2574,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 37356e5622b31d343b597e807d12be1c
+      internalID: 21300166
       vertices: []
       indices: 
       edges: []
@@ -2021,6 +2595,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e8e40bf4dfbf60541b0dd0fc9e6a2549
+      internalID: 21300168
       vertices: []
       indices: 
       edges: []
@@ -2041,6 +2616,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: db36362305b3ac842852ec131b639c88
+      internalID: 21300170
       vertices: []
       indices: 
       edges: []
@@ -2061,6 +2637,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b21093aee6f81334a8cfd360b8df6c06
+      internalID: 21300172
       vertices: []
       indices: 
       edges: []
@@ -2081,6 +2658,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e79deae473b98394e83b2971dc534563
+      internalID: 21300174
       vertices: []
       indices: 
       edges: []
@@ -2101,6 +2679,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 471c3520057869e4daf1c25467801085
+      internalID: 21300176
       vertices: []
       indices: 
       edges: []
@@ -2121,6 +2700,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 92601f3afb422854687e721479e4ac35
+      internalID: 21300178
       vertices: []
       indices: 
       edges: []
@@ -2141,6 +2721,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8438690f3edb06548a5f35844c4afb19
+      internalID: 21300180
       vertices: []
       indices: 
       edges: []
@@ -2161,6 +2742,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f0a27d107e69b3f4bac53e30fe476376
+      internalID: 21300182
       vertices: []
       indices: 
       edges: []
@@ -2181,6 +2763,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8cb39068545b005419c37415021ae03d
+      internalID: 21300184
       vertices: []
       indices: 
       edges: []
@@ -2201,6 +2784,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ce4d2b856a400014ea7289fa4d81cd9b
+      internalID: 21300186
       vertices: []
       indices: 
       edges: []
@@ -2221,6 +2805,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 196a185e163d4d64a892cc0557fd6592
+      internalID: 21300188
       vertices: []
       indices: 
       edges: []
@@ -2241,6 +2826,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b6adc9ea6258c6e4bbb699674a8c37de
+      internalID: 21300190
       vertices: []
       indices: 
       edges: []
@@ -2261,6 +2847,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: eabc7aeb58e51604c9e03b17481bd0ac
+      internalID: 21300192
       vertices: []
       indices: 
       edges: []
@@ -2281,6 +2868,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 39ff85b796b1251459f3b7b05364370e
+      internalID: 21300194
       vertices: []
       indices: 
       edges: []
@@ -2301,6 +2889,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bb8e09a40e65d4449bd35a97fde8a233
+      internalID: 21300196
       vertices: []
       indices: 
       edges: []
@@ -2321,6 +2910,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: db320cab6a0ec2745b033492a8e17cf7
+      internalID: 21300198
       vertices: []
       indices: 
       edges: []
@@ -2341,6 +2931,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 10f683e8f3d82144884eef6c39330196
+      internalID: 21300200
       vertices: []
       indices: 
       edges: []
@@ -2361,6 +2952,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ff5864f263e7ce247b0a787037079df1
+      internalID: 21300202
       vertices: []
       indices: 
       edges: []
@@ -2381,6 +2973,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8fbf9470461bc5a4b86d027d23f77d99
+      internalID: 21300204
       vertices: []
       indices: 
       edges: []
@@ -2401,6 +2994,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fe6eafbf071f02d448b582dfc6f1fd72
+      internalID: 21300206
       vertices: []
       indices: 
       edges: []
@@ -2421,6 +3015,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0dacd0ce9ddcaaf4e81cd54cd60a896f
+      internalID: 21300208
       vertices: []
       indices: 
       edges: []
@@ -2441,6 +3036,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 346279f553fe30847b99fa364bc10d02
+      internalID: 21300210
       vertices: []
       indices: 
       edges: []
@@ -2461,6 +3057,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f123ba5e920cc08419ecf205831a0169
+      internalID: 21300212
       vertices: []
       indices: 
       edges: []
@@ -2481,6 +3078,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2c0e57e73c4485848a07ca2b1c659522
+      internalID: 21300214
       vertices: []
       indices: 
       edges: []
@@ -2501,6 +3099,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3586f3b2faab6984aaaf70395d8a5540
+      internalID: 21300216
       vertices: []
       indices: 
       edges: []
@@ -2521,6 +3120,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a75d6a9af2cc38141ab7d00fb9edc9bf
+      internalID: 21300218
       vertices: []
       indices: 
       edges: []
@@ -2541,6 +3141,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ceba26e3f75b94e42b8cdb62a5904bf9
+      internalID: 21300220
       vertices: []
       indices: 
       edges: []
@@ -2561,6 +3162,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 33392ed94b74a854d88abfe77662955e
+      internalID: 21300222
       vertices: []
       indices: 
       edges: []
@@ -2581,6 +3183,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8fe9fe1b0b821224896ef0b33f1e3ed0
+      internalID: 21300224
       vertices: []
       indices: 
       edges: []
@@ -2601,6 +3204,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c0077532af96b2145838fca41a1065d7
+      internalID: 21300226
       vertices: []
       indices: 
       edges: []
@@ -2621,6 +3225,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b54b09d59dcc9b44ea8c66a80c0d1984
+      internalID: 21300228
       vertices: []
       indices: 
       edges: []
@@ -2641,6 +3246,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f1b081007c5a42743a247a5ccae60489
+      internalID: 21300230
       vertices: []
       indices: 
       edges: []
@@ -2661,6 +3267,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5b6282c0c3c5df545b7215e8fc99c876
+      internalID: 21300232
       vertices: []
       indices: 
       edges: []
@@ -2681,6 +3288,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9fafb51fdd0598041ad25b77103951e7
+      internalID: 21300234
       vertices: []
       indices: 
       edges: []
@@ -2701,6 +3309,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f0bc873f3de1f5f4eb6a66844fc20100
+      internalID: 21300236
       vertices: []
       indices: 
       edges: []
@@ -2721,6 +3330,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5721f19af201389428f917c797f3ef2e
+      internalID: 21300238
       vertices: []
       indices: 
       edges: []
@@ -2741,6 +3351,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 226f3861aff379343b5a7540850a5012
+      internalID: 21300240
       vertices: []
       indices: 
       edges: []
@@ -2761,6 +3372,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 65da8ab6eb69dca49bcb5f9885239af4
+      internalID: 21300242
       vertices: []
       indices: 
       edges: []
@@ -2781,6 +3393,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8a5b32a8e6b1d1b4985bb860eb9e6e11
+      internalID: 21300244
       vertices: []
       indices: 
       edges: []
@@ -2801,6 +3414,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d6614456b1e7fb049865349b6c577d64
+      internalID: 21300246
       vertices: []
       indices: 
       edges: []
@@ -2821,6 +3435,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 11c4e6342e5cc3540a6bc4d238b91147
+      internalID: 21300248
       vertices: []
       indices: 
       edges: []
@@ -2841,6 +3456,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7ae86aa8d47f6344c8a6230ea19326fe
+      internalID: 21300250
       vertices: []
       indices: 
       edges: []
@@ -2861,6 +3477,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 56431092ce7a29545b5da806764d43da
+      internalID: 21300252
       vertices: []
       indices: 
       edges: []
@@ -2881,6 +3498,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 64597ecf961411a4e8c68e77404dd92d
+      internalID: 21300254
       vertices: []
       indices: 
       edges: []
@@ -2901,6 +3519,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b119293942bc8c541a18bcab41daeea5
+      internalID: 21300256
       vertices: []
       indices: 
       edges: []
@@ -2921,6 +3540,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dcad69499c8383649880da1cfa6c84ef
+      internalID: 21300258
       vertices: []
       indices: 
       edges: []
@@ -2941,6 +3561,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fcda814a98f7e4b49b4661390c5a44bb
+      internalID: 21300260
       vertices: []
       indices: 
       edges: []
@@ -2961,6 +3582,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 84d4b873ed119bb409f386befea6fe94
+      internalID: 21300268
       vertices: []
       indices: 
       edges: []
@@ -2981,6 +3603,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4b4fbb09e02ec0741afeedeb61024d39
+      internalID: 21300272
       vertices: []
       indices: 
       edges: []
@@ -3001,6 +3624,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c9b70fd0e542a3d48b87f7038061fe5b
+      internalID: 21300276
       vertices: []
       indices: 
       edges: []
@@ -3021,6 +3645,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8317faa827033154cab4486e58ec31e1
+      internalID: 21300282
       vertices: []
       indices: 
       edges: []
@@ -3041,6 +3666,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6f85cf429c95eaa4a9d23651c537e9cb
+      internalID: 21300284
       vertices: []
       indices: 
       edges: []
@@ -3061,6 +3687,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7bdc43cdafcb2844b9b3e22daae36e48
+      internalID: 21300286
       vertices: []
       indices: 
       edges: []
@@ -3081,6 +3708,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 91de120bd986fc24a90856582e878851
+      internalID: 21300290
       vertices: []
       indices: 
       edges: []
@@ -3101,6 +3729,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ab008bde4ac961648a1c70e8455140a2
+      internalID: 21300292
       vertices: []
       indices: 
       edges: []
@@ -3121,6 +3750,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8e2582498e493334eaa9f3aa4d940c78
+      internalID: 21300294
       vertices: []
       indices: 
       edges: []
@@ -3141,6 +3771,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6f9c899ee8cca374f923085f50f21e63
+      internalID: 21300296
       vertices: []
       indices: 
       edges: []
@@ -3161,6 +3792,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cc5497dc3746eb046abe4c71a80fbe11
+      internalID: 21300298
       vertices: []
       indices: 
       edges: []
@@ -3181,6 +3813,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 301d158414bd02a42bb0a10684a2edd9
+      internalID: 21300300
       vertices: []
       indices: 
       edges: []
@@ -3201,6 +3834,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d7b87270c8ddd584180b3e809e7f6048
+      internalID: 21300302
       vertices: []
       indices: 
       edges: []
@@ -3221,6 +3855,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a6b2310f4bc733b4a8c76521d1ea4cf7
+      internalID: 21300304
       vertices: []
       indices: 
       edges: []
@@ -3241,6 +3876,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: da98e7cbe877f02479bb62c957387ad5
+      internalID: 21300306
       vertices: []
       indices: 
       edges: []
@@ -3261,6 +3897,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d828bdf798aee314da4b4e7ebf24d038
+      internalID: 21300308
       vertices: []
       indices: 
       edges: []
@@ -3281,6 +3918,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 65c02110e6667ba42abc3ed694ab4d08
+      internalID: 21300310
       vertices: []
       indices: 
       edges: []
@@ -3301,6 +3939,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e9cdbf8d767fb2742a843968c87f63c9
+      internalID: 21300312
       vertices: []
       indices: 
       edges: []
@@ -3321,6 +3960,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 10ce25e5c8c2adc478d85a5d31bd3bfe
+      internalID: 21300314
       vertices: []
       indices: 
       edges: []
@@ -3341,6 +3981,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 85e9ccdee82ba3645b2bc1ad11e9b962
+      internalID: 21300316
       vertices: []
       indices: 
       edges: []
@@ -3361,6 +4002,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5ffe344825152c94fbe5493179148703
+      internalID: 21300318
       vertices: []
       indices: 
       edges: []
@@ -3381,6 +4023,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aa1dc5076a36db146880aa8b7aadd97c
+      internalID: 21300320
       vertices: []
       indices: 
       edges: []
@@ -3401,6 +4044,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ae2602cbe1ebb594a8792fc39990fb82
+      internalID: 21300322
       vertices: []
       indices: 
       edges: []
@@ -3421,6 +4065,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ff39987b6214da542bfc5de5cc775538
+      internalID: 21300324
       vertices: []
       indices: 
       edges: []
@@ -3441,6 +4086,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ee13749859a276746b94f6b699661ef9
+      internalID: 21300326
       vertices: []
       indices: 
       edges: []
@@ -3461,6 +4107,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1a24a406dfc42f3418034b9b959c7573
+      internalID: 21300328
       vertices: []
       indices: 
       edges: []
@@ -3481,6 +4128,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4b6e1824babb996449a9037b235b4265
+      internalID: 21300330
       vertices: []
       indices: 
       edges: []
@@ -3501,6 +4149,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 13a35df66b3f07b4b83a08b49f6a3dd7
+      internalID: 21300332
       vertices: []
       indices: 
       edges: []
@@ -3521,6 +4170,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b019bb39494877c4fbc3ed86bce943bd
+      internalID: 21300334
       vertices: []
       indices: 
       edges: []
@@ -3541,6 +4191,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 00b227878264b8d49a4f42c1113a69c5
+      internalID: 21300336
       vertices: []
       indices: 
       edges: []
@@ -3561,6 +4212,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2e865c8dac743d94e9d6c76c253234e5
+      internalID: 21300338
       vertices: []
       indices: 
       edges: []
@@ -3581,6 +4233,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 13bda36f5feb9374097c5ea9ccacd94a
+      internalID: 21300340
       vertices: []
       indices: 
       edges: []
@@ -3601,6 +4254,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e4ba9cb5f9c73114ca020985563fb643
+      internalID: 21300342
       vertices: []
       indices: 
       edges: []
@@ -3621,6 +4275,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: df4842abbc86ea3459ce0017a9e51cf6
+      internalID: 21300344
       vertices: []
       indices: 
       edges: []
@@ -3641,6 +4296,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2dabac2efb1f482428cc2f8ad76b114e
+      internalID: 21300346
       vertices: []
       indices: 
       edges: []
@@ -3661,6 +4317,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 921c553c3feb17842a854debf1d1a948
+      internalID: 21300348
       vertices: []
       indices: 
       edges: []
@@ -3681,6 +4338,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 79fe496a9b428fa48b24b082810b9040
+      internalID: 21300350
       vertices: []
       indices: 
       edges: []
@@ -3701,6 +4359,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5fd13422b3e4fd34692028cee7239a35
+      internalID: 21300352
       vertices: []
       indices: 
       edges: []
@@ -3721,6 +4380,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 852020e3ddb07574d8948c8a979f1f80
+      internalID: 21300354
       vertices: []
       indices: 
       edges: []
@@ -3741,6 +4401,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b2c785f2342d7614f9f7a27057e5b192
+      internalID: 21300356
       vertices: []
       indices: 
       edges: []
@@ -3761,6 +4422,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1799ad881a1cb8145a3c890ef8723489
+      internalID: 21300358
       vertices: []
       indices: 
       edges: []
@@ -3781,6 +4443,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9412fa58bd2a80246a14a17fa853ea7d
+      internalID: 21300360
       vertices: []
       indices: 
       edges: []
@@ -3801,6 +4464,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ef840bb4a05b6f14c9d553867d97d27d
+      internalID: 21300362
       vertices: []
       indices: 
       edges: []
@@ -3821,6 +4485,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 79050f63ccd4c9446ad11a56568bff9a
+      internalID: 21300364
       vertices: []
       indices: 
       edges: []
@@ -3841,6 +4506,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cfc4068bd80e2074bb0114c52dfdbb85
+      internalID: 21300366
       vertices: []
       indices: 
       edges: []
@@ -3861,6 +4527,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 19c0d9c3dc297d748b3a0e9d731e5eb5
+      internalID: 21300368
       vertices: []
       indices: 
       edges: []
@@ -3881,6 +4548,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 195c663282043df4da7d14ad4de1338d
+      internalID: 21300370
       vertices: []
       indices: 
       edges: []
@@ -3901,6 +4569,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 537c73c4a6cee7e459560433265bfb9b
+      internalID: 21300372
       vertices: []
       indices: 
       edges: []
@@ -3921,6 +4590,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: af8e45ad6dce1b647a1d054a2d012b6e
+      internalID: 21300374
       vertices: []
       indices: 
       edges: []
@@ -3941,6 +4611,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0655a1c1db2b0dc4fbe9c16ff8777170
+      internalID: 21300376
       vertices: []
       indices: 
       edges: []
@@ -3961,6 +4632,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f3238e5b7bb65f242bfb6d2ef14bf963
+      internalID: 21300378
       vertices: []
       indices: 
       edges: []
@@ -3981,6 +4653,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a12495f9a4c28bf4d89d86ce3bb1d66d
+      internalID: 21300380
       vertices: []
       indices: 
       edges: []
@@ -4001,6 +4674,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e9885dca31a3d034a823ee0e9205f4e7
+      internalID: 21300382
       vertices: []
       indices: 
       edges: []
@@ -4021,6 +4695,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0d4cc0b1643224a4ab07d9d51acfa6a7
+      internalID: 21300384
       vertices: []
       indices: 
       edges: []
@@ -4041,6 +4716,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0117ab05e8d723543a4ee0335235faea
+      internalID: 21300386
       vertices: []
       indices: 
       edges: []
@@ -4061,6 +4737,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c125a0d34309c4344a3fc1c7d2160fa7
+      internalID: 21300388
       vertices: []
       indices: 
       edges: []
@@ -4081,6 +4758,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d8ff19a6bb15fb84687fc327921b14f9
+      internalID: 21300390
       vertices: []
       indices: 
       edges: []
@@ -4101,6 +4779,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7045976af0171e5429df4b0c0232815c
+      internalID: 21300392
       vertices: []
       indices: 
       edges: []
@@ -4121,6 +4800,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e285e69940b29bc409528616c69c2527
+      internalID: 21300394
       vertices: []
       indices: 
       edges: []
@@ -4141,6 +4821,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 24cdf59befdf74c46ace0f5cfc96d584
+      internalID: 21300396
       vertices: []
       indices: 
       edges: []
@@ -4161,6 +4842,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 75dfc07d78570544ab1c4e56a0086724
+      internalID: 21300398
       vertices: []
       indices: 
       edges: []
@@ -4181,6 +4863,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d205dcae367e36d4da14b60072208961
+      internalID: 21300400
       vertices: []
       indices: 
       edges: []
@@ -4201,6 +4884,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b70bbac0f4c5ee149a400f16df92c551
+      internalID: 21300402
       vertices: []
       indices: 
       edges: []
@@ -4221,6 +4905,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 09462116bd552e94590e601e3996b6ba
+      internalID: 21300404
       vertices: []
       indices: 
       edges: []
@@ -4241,6 +4926,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 36f79fbb86b239346b37384a352542bb
+      internalID: 21300406
       vertices: []
       indices: 
       edges: []
@@ -4261,6 +4947,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7696dc6a3a821ce43ab42f2aa654af55
+      internalID: 21300408
       vertices: []
       indices: 
       edges: []
@@ -4281,6 +4968,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b2e8a1bd657a526428710679b82de192
+      internalID: 21300410
       vertices: []
       indices: 
       edges: []
@@ -4301,6 +4989,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1b0a10ec79d2bf84aa6ab252f598d188
+      internalID: 21300412
       vertices: []
       indices: 
       edges: []
@@ -4321,6 +5010,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e0091de668443f94e80e57a1e83295f7
+      internalID: 21300414
       vertices: []
       indices: 
       edges: []
@@ -4341,6 +5031,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6bc38834e332c824ca396d3dc47d96e5
+      internalID: 21300416
       vertices: []
       indices: 
       edges: []
@@ -4361,6 +5052,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8b1c08740692c9940ab6ec72ee0742f6
+      internalID: 21300418
       vertices: []
       indices: 
       edges: []
@@ -4381,6 +5073,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1c2b6de9cdb834740b95a4a62eb987fb
+      internalID: 21300420
       vertices: []
       indices: 
       edges: []
@@ -4401,6 +5094,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2af64a6dcd7fb294aae9b88cd82f701c
+      internalID: 21300422
       vertices: []
       indices: 
       edges: []
@@ -4421,6 +5115,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 58b99849a5c898645961c076cb06742e
+      internalID: 21300424
       vertices: []
       indices: 
       edges: []
@@ -4441,6 +5136,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0b9ffb34fbb20ce44864fc2e2bd2f416
+      internalID: 21300426
       vertices: []
       indices: 
       edges: []
@@ -4461,6 +5157,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7963db029b6ed914a9e730614aa0ce37
+      internalID: 21300428
       vertices: []
       indices: 
       edges: []
@@ -4481,6 +5178,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ff349256bec325a4792ae31f5264355a
+      internalID: 21300430
       vertices: []
       indices: 
       edges: []
@@ -4501,6 +5199,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 94d57658d7430764399bffc5b2276723
+      internalID: 21300432
       vertices: []
       indices: 
       edges: []
@@ -4521,6 +5220,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d81289bea998dae4fa3fd03decbd1a6c
+      internalID: 21300434
       vertices: []
       indices: 
       edges: []
@@ -4541,6 +5241,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c91ca65a34c36284d93216d3cdd3e6c5
+      internalID: 21300436
       vertices: []
       indices: 
       edges: []
@@ -4561,6 +5262,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2f58fefc2b5626e45856cea4495e1ca1
+      internalID: 21300438
       vertices: []
       indices: 
       edges: []
@@ -4581,6 +5283,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: daf069573e3f15b458883fb16d6b7983
+      internalID: 21300440
       vertices: []
       indices: 
       edges: []
@@ -4601,6 +5304,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ceabdcaf3dd596f408860492b42f0050
+      internalID: 21300442
       vertices: []
       indices: 
       edges: []
@@ -4621,6 +5325,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6a555a77c37cb1549ad2320a03176e03
+      internalID: 21300444
       vertices: []
       indices: 
       edges: []
@@ -4641,6 +5346,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 38dccf5f36a52ac48bbcc4afafa93f66
+      internalID: 21300446
       vertices: []
       indices: 
       edges: []
@@ -4661,6 +5367,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: da38df39358babe44bfa7d181c491c22
+      internalID: 21300448
       vertices: []
       indices: 
       edges: []
@@ -4681,6 +5388,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 21cff3c7a4b00894e89b62db591fb7eb
+      internalID: 21300450
       vertices: []
       indices: 
       edges: []
@@ -4701,6 +5409,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 932a3c40be9cdff45b16afdd17161967
+      internalID: 21300452
       vertices: []
       indices: 
       edges: []
@@ -4721,6 +5430,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a82c84f4d4fad3d42aa6eba105badff5
+      internalID: 21300454
       vertices: []
       indices: 
       edges: []
@@ -4741,6 +5451,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e366f44561f32d8419dfef3f39bffcaf
+      internalID: 21300456
       vertices: []
       indices: 
       edges: []
@@ -4761,6 +5472,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d5f1d9d3cd2337e42bf5f66e6a0af791
+      internalID: 21300458
       vertices: []
       indices: 
       edges: []
@@ -4781,6 +5493,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c1c0969e45e79a04e852194387930899
+      internalID: 21300460
       vertices: []
       indices: 
       edges: []
@@ -4789,13 +5502,238 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 109a48f6bce55c648ac083d1296ecf96
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-  spritePackingTag: 
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug 3 - Maggot_0: 21300000
+      Neo Geo NGCD - Metal Slug 3 - Maggot_1: 21300002
+      Neo Geo NGCD - Metal Slug 3 - Maggot_10: 21300020
+      Neo Geo NGCD - Metal Slug 3 - Maggot_100: 21300200
+      Neo Geo NGCD - Metal Slug 3 - Maggot_101: 21300202
+      Neo Geo NGCD - Metal Slug 3 - Maggot_102: 21300204
+      Neo Geo NGCD - Metal Slug 3 - Maggot_103: 21300206
+      Neo Geo NGCD - Metal Slug 3 - Maggot_104: 21300208
+      Neo Geo NGCD - Metal Slug 3 - Maggot_105: 21300210
+      Neo Geo NGCD - Metal Slug 3 - Maggot_106: 21300212
+      Neo Geo NGCD - Metal Slug 3 - Maggot_107: 21300214
+      Neo Geo NGCD - Metal Slug 3 - Maggot_108: 21300216
+      Neo Geo NGCD - Metal Slug 3 - Maggot_109: 21300218
+      Neo Geo NGCD - Metal Slug 3 - Maggot_11: 21300022
+      Neo Geo NGCD - Metal Slug 3 - Maggot_110: 21300220
+      Neo Geo NGCD - Metal Slug 3 - Maggot_111: 21300222
+      Neo Geo NGCD - Metal Slug 3 - Maggot_112: 21300224
+      Neo Geo NGCD - Metal Slug 3 - Maggot_113: 21300226
+      Neo Geo NGCD - Metal Slug 3 - Maggot_114: 21300228
+      Neo Geo NGCD - Metal Slug 3 - Maggot_115: 21300230
+      Neo Geo NGCD - Metal Slug 3 - Maggot_116: 21300232
+      Neo Geo NGCD - Metal Slug 3 - Maggot_117: 21300234
+      Neo Geo NGCD - Metal Slug 3 - Maggot_118: 21300236
+      Neo Geo NGCD - Metal Slug 3 - Maggot_119: 21300238
+      Neo Geo NGCD - Metal Slug 3 - Maggot_12: 21300024
+      Neo Geo NGCD - Metal Slug 3 - Maggot_120: 21300240
+      Neo Geo NGCD - Metal Slug 3 - Maggot_121: 21300242
+      Neo Geo NGCD - Metal Slug 3 - Maggot_122: 21300244
+      Neo Geo NGCD - Metal Slug 3 - Maggot_123: 21300246
+      Neo Geo NGCD - Metal Slug 3 - Maggot_124: 21300248
+      Neo Geo NGCD - Metal Slug 3 - Maggot_125: 21300250
+      Neo Geo NGCD - Metal Slug 3 - Maggot_126: 21300252
+      Neo Geo NGCD - Metal Slug 3 - Maggot_127: 21300254
+      Neo Geo NGCD - Metal Slug 3 - Maggot_128: 21300256
+      Neo Geo NGCD - Metal Slug 3 - Maggot_129: 21300258
+      Neo Geo NGCD - Metal Slug 3 - Maggot_13: 21300026
+      Neo Geo NGCD - Metal Slug 3 - Maggot_130: 21300260
+      Neo Geo NGCD - Metal Slug 3 - Maggot_134: 21300268
+      Neo Geo NGCD - Metal Slug 3 - Maggot_136: 21300272
+      Neo Geo NGCD - Metal Slug 3 - Maggot_138: 21300276
+      Neo Geo NGCD - Metal Slug 3 - Maggot_14: 21300028
+      Neo Geo NGCD - Metal Slug 3 - Maggot_141: 21300282
+      Neo Geo NGCD - Metal Slug 3 - Maggot_142: 21300284
+      Neo Geo NGCD - Metal Slug 3 - Maggot_143: 21300286
+      Neo Geo NGCD - Metal Slug 3 - Maggot_145: 21300290
+      Neo Geo NGCD - Metal Slug 3 - Maggot_146: 21300292
+      Neo Geo NGCD - Metal Slug 3 - Maggot_147: 21300294
+      Neo Geo NGCD - Metal Slug 3 - Maggot_148: 21300296
+      Neo Geo NGCD - Metal Slug 3 - Maggot_149: 21300298
+      Neo Geo NGCD - Metal Slug 3 - Maggot_15: 21300030
+      Neo Geo NGCD - Metal Slug 3 - Maggot_150: 21300300
+      Neo Geo NGCD - Metal Slug 3 - Maggot_151: 21300302
+      Neo Geo NGCD - Metal Slug 3 - Maggot_152: 21300304
+      Neo Geo NGCD - Metal Slug 3 - Maggot_153: 21300306
+      Neo Geo NGCD - Metal Slug 3 - Maggot_154: 21300308
+      Neo Geo NGCD - Metal Slug 3 - Maggot_155: 21300310
+      Neo Geo NGCD - Metal Slug 3 - Maggot_156: 21300312
+      Neo Geo NGCD - Metal Slug 3 - Maggot_157: 21300314
+      Neo Geo NGCD - Metal Slug 3 - Maggot_158: 21300316
+      Neo Geo NGCD - Metal Slug 3 - Maggot_159: 21300318
+      Neo Geo NGCD - Metal Slug 3 - Maggot_16: 21300032
+      Neo Geo NGCD - Metal Slug 3 - Maggot_160: 21300320
+      Neo Geo NGCD - Metal Slug 3 - Maggot_161: 21300322
+      Neo Geo NGCD - Metal Slug 3 - Maggot_162: 21300324
+      Neo Geo NGCD - Metal Slug 3 - Maggot_163: 21300326
+      Neo Geo NGCD - Metal Slug 3 - Maggot_164: 21300328
+      Neo Geo NGCD - Metal Slug 3 - Maggot_165: 21300330
+      Neo Geo NGCD - Metal Slug 3 - Maggot_166: 21300332
+      Neo Geo NGCD - Metal Slug 3 - Maggot_167: 21300334
+      Neo Geo NGCD - Metal Slug 3 - Maggot_168: 21300336
+      Neo Geo NGCD - Metal Slug 3 - Maggot_169: 21300338
+      Neo Geo NGCD - Metal Slug 3 - Maggot_17: 21300034
+      Neo Geo NGCD - Metal Slug 3 - Maggot_170: 21300340
+      Neo Geo NGCD - Metal Slug 3 - Maggot_171: 21300342
+      Neo Geo NGCD - Metal Slug 3 - Maggot_172: 21300344
+      Neo Geo NGCD - Metal Slug 3 - Maggot_173: 21300346
+      Neo Geo NGCD - Metal Slug 3 - Maggot_174: 21300348
+      Neo Geo NGCD - Metal Slug 3 - Maggot_175: 21300350
+      Neo Geo NGCD - Metal Slug 3 - Maggot_176: 21300352
+      Neo Geo NGCD - Metal Slug 3 - Maggot_177: 21300354
+      Neo Geo NGCD - Metal Slug 3 - Maggot_178: 21300356
+      Neo Geo NGCD - Metal Slug 3 - Maggot_179: 21300358
+      Neo Geo NGCD - Metal Slug 3 - Maggot_18: 21300036
+      Neo Geo NGCD - Metal Slug 3 - Maggot_180: 21300360
+      Neo Geo NGCD - Metal Slug 3 - Maggot_181: 21300362
+      Neo Geo NGCD - Metal Slug 3 - Maggot_182: 21300364
+      Neo Geo NGCD - Metal Slug 3 - Maggot_183: 21300366
+      Neo Geo NGCD - Metal Slug 3 - Maggot_184: 21300368
+      Neo Geo NGCD - Metal Slug 3 - Maggot_185: 21300370
+      Neo Geo NGCD - Metal Slug 3 - Maggot_186: 21300372
+      Neo Geo NGCD - Metal Slug 3 - Maggot_187: 21300374
+      Neo Geo NGCD - Metal Slug 3 - Maggot_188: 21300376
+      Neo Geo NGCD - Metal Slug 3 - Maggot_189: 21300378
+      Neo Geo NGCD - Metal Slug 3 - Maggot_19: 21300038
+      Neo Geo NGCD - Metal Slug 3 - Maggot_190: 21300380
+      Neo Geo NGCD - Metal Slug 3 - Maggot_191: 21300382
+      Neo Geo NGCD - Metal Slug 3 - Maggot_192: 21300384
+      Neo Geo NGCD - Metal Slug 3 - Maggot_193: 21300386
+      Neo Geo NGCD - Metal Slug 3 - Maggot_194: 21300388
+      Neo Geo NGCD - Metal Slug 3 - Maggot_195: 21300390
+      Neo Geo NGCD - Metal Slug 3 - Maggot_196: 21300392
+      Neo Geo NGCD - Metal Slug 3 - Maggot_197: 21300394
+      Neo Geo NGCD - Metal Slug 3 - Maggot_198: 21300396
+      Neo Geo NGCD - Metal Slug 3 - Maggot_199: 21300398
+      Neo Geo NGCD - Metal Slug 3 - Maggot_2: 21300004
+      Neo Geo NGCD - Metal Slug 3 - Maggot_20: 21300040
+      Neo Geo NGCD - Metal Slug 3 - Maggot_200: 21300400
+      Neo Geo NGCD - Metal Slug 3 - Maggot_201: 21300402
+      Neo Geo NGCD - Metal Slug 3 - Maggot_202: 21300404
+      Neo Geo NGCD - Metal Slug 3 - Maggot_203: 21300406
+      Neo Geo NGCD - Metal Slug 3 - Maggot_204: 21300408
+      Neo Geo NGCD - Metal Slug 3 - Maggot_205: 21300410
+      Neo Geo NGCD - Metal Slug 3 - Maggot_206: 21300412
+      Neo Geo NGCD - Metal Slug 3 - Maggot_207: 21300414
+      Neo Geo NGCD - Metal Slug 3 - Maggot_208: 21300416
+      Neo Geo NGCD - Metal Slug 3 - Maggot_209: 21300418
+      Neo Geo NGCD - Metal Slug 3 - Maggot_21: 21300042
+      Neo Geo NGCD - Metal Slug 3 - Maggot_210: 21300420
+      Neo Geo NGCD - Metal Slug 3 - Maggot_211: 21300422
+      Neo Geo NGCD - Metal Slug 3 - Maggot_212: 21300424
+      Neo Geo NGCD - Metal Slug 3 - Maggot_213: 21300426
+      Neo Geo NGCD - Metal Slug 3 - Maggot_214: 21300428
+      Neo Geo NGCD - Metal Slug 3 - Maggot_215: 21300430
+      Neo Geo NGCD - Metal Slug 3 - Maggot_216: 21300432
+      Neo Geo NGCD - Metal Slug 3 - Maggot_217: 21300434
+      Neo Geo NGCD - Metal Slug 3 - Maggot_218: 21300436
+      Neo Geo NGCD - Metal Slug 3 - Maggot_219: 21300438
+      Neo Geo NGCD - Metal Slug 3 - Maggot_22: 21300044
+      Neo Geo NGCD - Metal Slug 3 - Maggot_220: 21300440
+      Neo Geo NGCD - Metal Slug 3 - Maggot_221: 21300442
+      Neo Geo NGCD - Metal Slug 3 - Maggot_222: 21300444
+      Neo Geo NGCD - Metal Slug 3 - Maggot_223: 21300446
+      Neo Geo NGCD - Metal Slug 3 - Maggot_224: 21300448
+      Neo Geo NGCD - Metal Slug 3 - Maggot_225: 21300450
+      Neo Geo NGCD - Metal Slug 3 - Maggot_226: 21300452
+      Neo Geo NGCD - Metal Slug 3 - Maggot_227: 21300454
+      Neo Geo NGCD - Metal Slug 3 - Maggot_228: 21300456
+      Neo Geo NGCD - Metal Slug 3 - Maggot_229: 21300458
+      Neo Geo NGCD - Metal Slug 3 - Maggot_23: 21300046
+      Neo Geo NGCD - Metal Slug 3 - Maggot_230: 21300460
+      Neo Geo NGCD - Metal Slug 3 - Maggot_24: 21300048
+      Neo Geo NGCD - Metal Slug 3 - Maggot_25: 21300050
+      Neo Geo NGCD - Metal Slug 3 - Maggot_26: 21300052
+      Neo Geo NGCD - Metal Slug 3 - Maggot_27: 21300054
+      Neo Geo NGCD - Metal Slug 3 - Maggot_28: 21300056
+      Neo Geo NGCD - Metal Slug 3 - Maggot_29: 21300058
+      Neo Geo NGCD - Metal Slug 3 - Maggot_3: 21300006
+      Neo Geo NGCD - Metal Slug 3 - Maggot_30: 21300060
+      Neo Geo NGCD - Metal Slug 3 - Maggot_31: 21300062
+      Neo Geo NGCD - Metal Slug 3 - Maggot_32: 21300064
+      Neo Geo NGCD - Metal Slug 3 - Maggot_33: 21300066
+      Neo Geo NGCD - Metal Slug 3 - Maggot_34: 21300068
+      Neo Geo NGCD - Metal Slug 3 - Maggot_35: 21300070
+      Neo Geo NGCD - Metal Slug 3 - Maggot_36: 21300072
+      Neo Geo NGCD - Metal Slug 3 - Maggot_37: 21300074
+      Neo Geo NGCD - Metal Slug 3 - Maggot_38: 21300076
+      Neo Geo NGCD - Metal Slug 3 - Maggot_39: 21300078
+      Neo Geo NGCD - Metal Slug 3 - Maggot_4: 21300008
+      Neo Geo NGCD - Metal Slug 3 - Maggot_40: 21300080
+      Neo Geo NGCD - Metal Slug 3 - Maggot_41: 21300082
+      Neo Geo NGCD - Metal Slug 3 - Maggot_42: 21300084
+      Neo Geo NGCD - Metal Slug 3 - Maggot_43: 21300086
+      Neo Geo NGCD - Metal Slug 3 - Maggot_44: 21300088
+      Neo Geo NGCD - Metal Slug 3 - Maggot_45: 21300090
+      Neo Geo NGCD - Metal Slug 3 - Maggot_46: 21300092
+      Neo Geo NGCD - Metal Slug 3 - Maggot_47: 21300094
+      Neo Geo NGCD - Metal Slug 3 - Maggot_48: 21300096
+      Neo Geo NGCD - Metal Slug 3 - Maggot_49: 21300098
+      Neo Geo NGCD - Metal Slug 3 - Maggot_5: 21300010
+      Neo Geo NGCD - Metal Slug 3 - Maggot_50: 21300100
+      Neo Geo NGCD - Metal Slug 3 - Maggot_51: 21300102
+      Neo Geo NGCD - Metal Slug 3 - Maggot_52: 21300104
+      Neo Geo NGCD - Metal Slug 3 - Maggot_53: 21300106
+      Neo Geo NGCD - Metal Slug 3 - Maggot_54: 21300108
+      Neo Geo NGCD - Metal Slug 3 - Maggot_55: 21300110
+      Neo Geo NGCD - Metal Slug 3 - Maggot_56: 21300112
+      Neo Geo NGCD - Metal Slug 3 - Maggot_57: 21300114
+      Neo Geo NGCD - Metal Slug 3 - Maggot_58: 21300116
+      Neo Geo NGCD - Metal Slug 3 - Maggot_59: 21300118
+      Neo Geo NGCD - Metal Slug 3 - Maggot_6: 21300012
+      Neo Geo NGCD - Metal Slug 3 - Maggot_60: 21300120
+      Neo Geo NGCD - Metal Slug 3 - Maggot_61: 21300122
+      Neo Geo NGCD - Metal Slug 3 - Maggot_62: 21300124
+      Neo Geo NGCD - Metal Slug 3 - Maggot_63: 21300126
+      Neo Geo NGCD - Metal Slug 3 - Maggot_64: 21300128
+      Neo Geo NGCD - Metal Slug 3 - Maggot_65: 21300130
+      Neo Geo NGCD - Metal Slug 3 - Maggot_66: 21300132
+      Neo Geo NGCD - Metal Slug 3 - Maggot_67: 21300134
+      Neo Geo NGCD - Metal Slug 3 - Maggot_68: 21300136
+      Neo Geo NGCD - Metal Slug 3 - Maggot_69: 21300138
+      Neo Geo NGCD - Metal Slug 3 - Maggot_7: 21300014
+      Neo Geo NGCD - Metal Slug 3 - Maggot_70: 21300140
+      Neo Geo NGCD - Metal Slug 3 - Maggot_71: 21300142
+      Neo Geo NGCD - Metal Slug 3 - Maggot_72: 21300144
+      Neo Geo NGCD - Metal Slug 3 - Maggot_73: 21300146
+      Neo Geo NGCD - Metal Slug 3 - Maggot_74: 21300148
+      Neo Geo NGCD - Metal Slug 3 - Maggot_75: 21300150
+      Neo Geo NGCD - Metal Slug 3 - Maggot_76: 21300152
+      Neo Geo NGCD - Metal Slug 3 - Maggot_77: 21300154
+      Neo Geo NGCD - Metal Slug 3 - Maggot_78: 21300156
+      Neo Geo NGCD - Metal Slug 3 - Maggot_79: 21300158
+      Neo Geo NGCD - Metal Slug 3 - Maggot_8: 21300016
+      Neo Geo NGCD - Metal Slug 3 - Maggot_80: 21300160
+      Neo Geo NGCD - Metal Slug 3 - Maggot_81: 21300162
+      Neo Geo NGCD - Metal Slug 3 - Maggot_82: 21300164
+      Neo Geo NGCD - Metal Slug 3 - Maggot_83: 21300166
+      Neo Geo NGCD - Metal Slug 3 - Maggot_84: 21300168
+      Neo Geo NGCD - Metal Slug 3 - Maggot_85: 21300170
+      Neo Geo NGCD - Metal Slug 3 - Maggot_86: 21300172
+      Neo Geo NGCD - Metal Slug 3 - Maggot_87: 21300174
+      Neo Geo NGCD - Metal Slug 3 - Maggot_88: 21300176
+      Neo Geo NGCD - Metal Slug 3 - Maggot_89: 21300178
+      Neo Geo NGCD - Metal Slug 3 - Maggot_9: 21300018
+      Neo Geo NGCD - Metal Slug 3 - Maggot_90: 21300180
+      Neo Geo NGCD - Metal Slug 3 - Maggot_91: 21300182
+      Neo Geo NGCD - Metal Slug 3 - Maggot_92: 21300184
+      Neo Geo NGCD - Metal Slug 3 - Maggot_93: 21300186
+      Neo Geo NGCD - Metal Slug 3 - Maggot_94: 21300188
+      Neo Geo NGCD - Metal Slug 3 - Maggot_95: 21300190
+      Neo Geo NGCD - Metal Slug 3 - Maggot_96: 21300192
+      Neo Geo NGCD - Metal Slug 3 - Maggot_97: 21300194
+      Neo Geo NGCD - Metal Slug 3 - Maggot_98: 21300196
+      Neo Geo NGCD - Metal Slug 3 - Maggot_99: 21300198
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
