@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Unity.Cinemachine;
+using Cinemachine;
 
 public class SunkBoatController : MonoBehaviour
 {

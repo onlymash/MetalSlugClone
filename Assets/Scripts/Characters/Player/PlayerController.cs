@@ -63,7 +63,7 @@ public class PlayerController : MonoBehaviour
     private bool asObjUp = false;
 
     public GameObject foreground;
-    Unity.Cinemachine.CinemachineBrain cinemachineBrain;
+    Cinemachine.CinemachineBrain cinemachineBrain;
 
     public enum CollectibleType
     {
@@ -76,7 +76,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         bottomAnimator = bottom.GetComponent<Animator>();
-        cinemachineBrain = Camera.main.GetComponent<Unity.Cinemachine.CinemachineBrain>();
+        cinemachineBrain = Camera.main.GetComponent<Cinemachine.CinemachineBrain>();
         registerHealth();
     }
 
